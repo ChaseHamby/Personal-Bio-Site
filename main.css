@@ -1,0 +1,16 @@
+body {
+    background-color: cornsilk;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+
+
+.page-footer {
+    position:fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
