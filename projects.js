@@ -4,7 +4,7 @@ let projects = {
     project: [
     {
     title: "Cool Project", 
-    screenshot: "http://gotoflashgames.com/files/file/033.jpg", 
+    screenshot: "<img src='http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2018/07/10/czech-beer-brewed-to-aid-cancer-patients-with-loss-taste-appetite/_jcr_content/par/featured_image/media-0.img.jpg/1862/1048/1531243667671.jpg?ve=1&tl=1'>",
     description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:"HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
@@ -13,7 +13,7 @@ let projects = {
     },
     {
     title: "Cool Project", 
-    screenshot: "http://gotoflashgames.com/files/file/033.jpg", 
+    screenshot: "<img src='https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_1071,q_50,w_1903/v1/clients/spokane17/Beer_1_5b32b17e-a63c-4941-b0e0-0e58ab169350.jpg'>",
     description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: false,
@@ -22,7 +22,7 @@ let projects = {
     },
     {
     title: "Cool Project", 
-    screenshot: "http://gotoflashgames.com/files/file/033.jpg", 
+    screenshot: "<img src='https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_1071,q_50,w_1903/v1/clients/spokane17/Beer_1_5b32b17e-a63c-4941-b0e0-0e58ab169350.jpg' height: 100px; width: 100px;>",
     description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
