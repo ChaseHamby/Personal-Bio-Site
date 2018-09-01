@@ -6,6 +6,37 @@ h2, h3 {
     text-align: center;
 }
 
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: burlywood;
+}
+
+#navLinks {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    float: right;
+}
+
+li {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+beer {
+    width: 50%;
+}
+
+.fullpage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 .page-footer {
     bottom: 10px;
     width: 100%;
