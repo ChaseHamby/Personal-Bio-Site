@@ -4,8 +4,8 @@ let projects = {
     project: [
     {
     title: "Cool Project", 
-    screenshot: "<img src='http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2018/07/10/czech-beer-brewed-to-aid-cancer-patients-with-loss-taste-appetite/_jcr_content/par/featured_image/media-0.img.jpg/1862/1048/1531243667671.jpg?ve=1&tl=1'>",
-    description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
+    screenshot: "<img src='https://www.mybeercollectibles.com/uploads/cache/httpsivimeocdncomvideo4613200791280x720jpg-500x500-crop.jpg'>",
+    description: "A beer called Chocolate Rain? Sounds tasty...", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:"HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
     url: "https://github.com/nss-evening-cohort-8/js-part-deux",   // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
@@ -22,8 +22,8 @@ let projects = {
     },
     {
     title: "Cool Project", 
-    screenshot: "<img src='https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_1071,q_50,w_1903/v1/clients/spokane17/Beer_1_5b32b17e-a63c-4941-b0e0-0e58ab169350.jpg' height: 100px; width: 100px;>",
-    description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
+    screenshot: "<img src='http://allaboutbeer.com/wp-content/uploads/2017/10/The-Bruery-Black-Tuesday-500.png'>",
+    description: "What is this other beer? It is called Black Tuesday so it must be good...", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
     url: "https://github.com/nss-evening-cohort-8/js-part-deux", // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
