@@ -1,9 +1,19 @@
+
+html { 
+    background: url(https://static.wixstatic.com/media/34d4f7_1798cbc767b543b7a2f737e4fe658988~mv2.jpg/v1/fill/w_637,h_398,al_c,q_80,usm_0.66_1.00_0.01/34d4f7_1798cbc767b543b7a2f737e4fe658988~mv2.webp) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
 body {
-    background-color: cornsilk;
+    color: rgb(203, 214, 214);
 }
 
 h1, h2 {
     text-align: center;
+    font-family: 'EB Garamond', serif;
 }
 
 .nav {
@@ -11,7 +21,7 @@ h1, h2 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: burlywood;
+    background-color:slategray;
 }
 
 #navLinks {
