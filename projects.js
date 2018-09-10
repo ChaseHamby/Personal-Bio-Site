@@ -4,8 +4,8 @@ let projects = {
     project: [
     {
     title: "Cool Project", 
-    screenshot: "<img src='https://www.mybeercollectibles.com/uploads/cache/httpsivimeocdncomvideo4613200791280x720jpg-500x500-crop.jpg'>",
-    description: "A beer called Chocolate Rain? Sounds tasty...", // A good project description includes 'the what', 'the why', and 'the how'.
+    screenshot: "<img src='https://media.newyorker.com/photos/59097998ebe912338a378282/4:3/w_960,c_limit/160905_r28637.jpg'>",
+    description: "^^That is a coyote^^^", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:"HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
     url: "https://github.com/nss-evening-cohort-8/js-part-deux",   // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
