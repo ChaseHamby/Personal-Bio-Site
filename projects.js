@@ -7,13 +7,12 @@ const printToDom = (stringToPrint, divId) => {
 let projects = {
     project: [
     {
-    title: "Cool Project", 
-    screenshot: "<img src='https://media.newyorker.com/photos/59097998ebe912338a378282/4:3/w_960,c_limit/160905_r28637.jpg'>",
-    description: "^^That is a coyote^^^", // A good project description includes 'the what', 'the why', and 'the how'.
+    title: "Sorting Hat", 
+    screenshot: "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIBaRAGn_PpDW6dCEYY_TiqH3EC216ThtRt6aiLF-QezNfl9F'>",
+    description: "A project that brings Hogwarts' Sorting Hat to life!", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed:"HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
-    url: "https://github.com/nss-evening-cohort-8/js-part-deux",   // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
-    githubUrl: "https://github.com/nss-evening-cohort-8/js-part-deux"
+    githubUrl: "https://github.com/ChaseHamby/Sorting-Hat"
     },
     {
     title: "Cool Project", 
@@ -52,9 +51,8 @@ for(i = 0; i < projects.project.length; i++){
     }
     printToDom(newString, 'projectsPage');
 }
-};
-
 createProjectCards();
+};
 
     // Technologies //
 
@@ -62,8 +60,8 @@ const techRedirect = document.getElementById('tech-link');
 
 techRedirect.addEventListener("click", (event) => {
     event.preventDefault();
-    location.assign('tech.html');
-});
+    window.location = "tech.html";
+}, false);
 
     // Projects //
 
@@ -71,8 +69,8 @@ const projectRedirect = document.getElementById('project-link');
 
 projectRedirect.addEventListener("click", (event) => {
     event.preventDefault();
-    location.assign('project.html');
-});
+    window.location = "project.html";
+}, false);
 
     // Biography // 
 
@@ -80,8 +78,8 @@ const bioRedirect = document.getElementById('bio-link');
 
 bioRedirect.addEventListener("click", (event) => {
     event.preventDefault();
-    location.assign('bio.html');
-});
+    window.location = "bio.html";
+}, false);
 
 
 
