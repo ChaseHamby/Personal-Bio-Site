@@ -1,4 +1,8 @@
-console.log('hi');
+const printToDom = (stringToPrint, divId) => {
+    const selectedDiv = document.getElementById(divId);
+    selectedDiv.innerHTML = stringToPrint;
+};
+
 
 let projects = {
     project: [
@@ -32,10 +36,6 @@ let projects = {
 ]
 };
 
-const writeToDom = (stringToPrint, divId) => {
-    const selectedDiv = document.getElementById(divId);
-    selectedDiv.innerHTML = stringToPrint;
-}
 const createProjectCards = () => {
 let newString = '';
 for(i = 0; i < projects.project.length; i++){
@@ -50,8 +50,38 @@ for(i = 0; i < projects.project.length; i++){
     newString += `<h3>${projects.project[i].githubUrl}</h3>`;
     newString += `</div>`; 
     }
-    writeToDom(newString, 'projectsPage');
+    printToDom(newString, 'projectsPage');
 }
 };
 
 createProjectCards();
+
+    // Technologies //
+
+const techRedirect = document.getElementById('tech-link');
+
+techRedirect.addEventListener("click", (event) => {
+    event.preventDefault();
+    location.assign('tech.html');
+});
+
+    // Projects //
+
+const projectRedirect = document.getElementById('project-link');
+
+projectRedirect.addEventListener("click", (event) => {
+    event.preventDefault();
+    location.assign('project.html');
+});
+
+    // Biography // 
+
+const bioRedirect = document.getElementById('bio-link');
+
+bioRedirect.addEventListener("click", (event) => {
+    event.preventDefault();
+    location.assign('bio.html');
+});
+
+
+

@@ -3,6 +3,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="main.css">
   <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
   <title>Chase Hamby || Web Developer</title>
@@ -10,38 +11,30 @@
 
 <body>
   <!-- Navigation -->
-  <nav>
-  <h1>Chase Hamby - Web Developer</h1>
-  <div class="nav">
-    <ul id="navLinks">
-      <li><a id="navToBio">Bio</a></li>
-      <li><a id="navToTechnologies">Technologies</a></li>
-      <li><a id="navToProjects">Projects</a></li>
-    </ul>
-  </div>
-  </nav>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="index.html">Chase Hamby</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+          <li id="bio-link">
+              <a class="bio-link" href="bio.html">Biography</a>
+          </li>
+          <li id="tech-link">
+              <a class="tech-link" href="tech.html">Technologies</a>
+          </li>
+          <li id="project-link">
+              <a class="project-link" href="project.html">Projects</a>
+          </li>
+          </ul>
+      </div>
+      </nav>
   <!-- End Navigation -->
 
-  <div id="bg"></div>
-  <!-- Primary View -->
-  <div class="newPage" id="bioPage">
-    <!-- TODO: Fill in bio info here: What is your background? Why do you want to go into development? What do you love about development? -->
-    <p>Born and raised in Nashville, TN. I come from a background in Customer Experience Management and Human Resources. While I love working with people, I have always been passionate about software. I began working for Eventbrite almost 3 years ago and while working with the product, I became more intrigued by how it works, particularly in dealing with "bugs" and when things didn't work like they were supposed to. I wanted to understand how to fix these and this led me to NSS.</p>
-  </div>
-  <div class="technologies" id="technologiesPage">
-  <p><h1>Technologies</h1></p>
-    <!-- TODO: Start an UL of all of the tools and technologies you've started learning so far. (You'll beef this page up later). -->
-    <ul>
-      <li>Javascript</li>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>Git</li>
-      <li>GitHub</li>
-    </ul>
-  </div>
-  <div class="fullPage" id="projectsPage"></div>
-  <!-- End Primary View -->
+  <p>Test Info</p>
 
+ 
   <!-- Footer -->
   <footer class="page-footer"> 
     <!-- TODO: Fill in contact info here: Include things like email, LinkedIn, Twitter and GitHub links. -->
@@ -51,6 +44,9 @@
   </footer>
   <!-- End Footer -->
 
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   <script src="projects.js"></script>
 </body>
 </html>
