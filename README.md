@@ -5,6 +5,8 @@ This project is to get us started building our own personal bio site over the ne
 ## Screenshots
 <img width="1427" alt="screen shot 2018-09-22 at 6 04 48 pm" src="https://user-images.githubusercontent.com/16019344/45922457-144ea080-be92-11e8-99fc-e1e49769d959.png">
 <img width="1430" alt="screen shot 2018-09-22 at 6 04 55 pm" src="https://user-images.githubusercontent.com/16019344/45922458-17499100-be92-11e8-96b7-83cf8bebc8c3.png">
+<img width="1438" alt="screen shot 2018-09-22 at 7 49 04 pm" src="https://user-images.githubusercontent.com/16019344/45923044-9d6cd400-bea0-11e8-920b-cac64cca2180.png">
+
 
 ## Technical Requirements
 
