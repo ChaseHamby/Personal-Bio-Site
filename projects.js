@@ -24,9 +24,9 @@ let projects = {
     githubUrl: "https://github.com/nss-evening-cohort-8/js-part-deux"
     },
     {
-    title: "Cool Project", 
-    screenshot: "<img src='http://allaboutbeer.com/wp-content/uploads/2017/10/The-Bruery-Black-Tuesday-500.png'>",
-    description: "What is this other beer? It is called Black Tuesday so it must be good...", // A good project description includes 'the what', 'the why', and 'the how'.
+    title: "Language Translator", 
+    screenshot: "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Sj5Az7s0LcfkSe_i3amfURfXhgL2dDMPO-JV_S23QsC2CMl9'>",
+    description: "An app that uses a limited dictionary and then translates a holiday card message from English into another language.", // A good project description includes 'the what', 'the why', and 'the how'.
     technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     available: true,
     url: "https://github.com/nss-evening-cohort-8/js-part-deux", // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
