@@ -1,0 +1,60 @@
+{
+  "project":[
+  {
+    "title": "Simple Pintrest", 
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
+    "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
+    "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
+  },
+  {
+    "title": "Shotz", 
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "description": "How to find the best locations for your movie shots! Used promises and JSON.", 
+    "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
+    "githubUrl": "https://github.com/ChaseHamby/shotz"
+  },
+  {
+    "title": "What You See Is What You Get", 
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "description": "DOM manipulation using Javascript, event listeners, and JSON files", 
+    "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules",
+    "githubUrl": "https://github.com/ChaseHamby/What-You-See-Is-What-You-Get"
+  },
+  {
+    "title": "Thrones", 
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "description": "A Game of Thrones site where you can sort characters based on their house. Project utilized to give us more experience with JS event listeners", 
+    "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules",
+    "githubUrl": "https://github.com/ChaseHamby/thrones"
+  },
+  {
+    "title": "Adoption Website", 
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Very similar to the Thrones project in that it gave us more experience with event listeners.", 
+    "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
+  },
+  {
+    "title": "Sorting Hat", 
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "description": "A project that brings Hogwarts' Sorting Hat to life!", 
+    "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "githubUrl": "https://github.com/ChaseHamby/Sorting-Hat"
+  },
+  {
+    "title": "Language Translator", 
+    "imageUrl": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Sj5Az7s0LcfkSe_i3amfURfXhgL2dDMPO-JV_S23QsC2CMl9'>",
+    "description": "An app that uses a limited dictionary and then translates a holiday card message from English into another language.", 
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "githubUrl": "https://github.com/ChaseHamby/Language-Translator"
+  },
+  {
+    "title": "Adoption Website", 
+    "imageUrl": "<img src='https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_1071,q_50,w_1903/v1/clients/spokane17/Beer_1_5b32b17e-a63c-4941-b0e0-0e58ab169350.jpg'>",
+    "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Once you sort, you can view cards that match your pet type preference and see pictures and information about the pet.",
+    "technologiesUsed": "HTML, Bootstrap, Vanilla JavaScript, Github",
+    "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
+  }
+  ]
+}
