@@ -1,7 +1,11 @@
-// import $ from 'jquery';
 import 'jquery';
 import 'bootstrap';
+import projectView from './javascripts/components/projects';
 
 import './index.scss';
 
-console.log('hi');
+const initializeMainView = () => {
+  projectView.initializeProjectView();
+};
+
+initializeMainView();
