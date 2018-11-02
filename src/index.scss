@@ -1,11 +1,22 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background-color: cadetblue;
+  background-color: darkslategray;
+}
+
+.img {
+  position: relative;
+  width:  150px;
+  height: 150px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+  padding: 22px;
 }
 
 h1, h2 {
   text-align: center;
+  color: antiquewhite;
   font-family: 'EB Garamond', serif;
 }
 
