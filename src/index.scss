@@ -30,14 +30,9 @@ li {
   margin-left: 20px;
   list-style-type: none;
   cursor: pointer;
+  flex-direction: row;
 }
 
-.fullpage {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  align-items: center;
-}
 
 ul {
   display: flex;
@@ -49,7 +44,6 @@ ul {
 .page-footer {
   bottom: 10px;
   width: 100%;
-  text-align: center;
 }
 
 
