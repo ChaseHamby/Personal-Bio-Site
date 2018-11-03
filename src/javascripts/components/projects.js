@@ -10,7 +10,7 @@ const writeProjects = (arrayOfProjects) => {
             <h5 class="card-title">${project.title}</h5>
             <h6 class="card-text">${project.description}</h6>
             <p class="technologies-used">${project.technologiesUsed}</p>
-            <a href="${project.githubUrl}" class="btn btn-primary justift-content-center">GitHub</a>
+            <a href="${project.githubUrl}" class="btn btn-secondary d-flex justify-content-center">GitHub</a>
         </div>
     </div>`;
   });
@@ -25,7 +25,5 @@ const initializeProjectView = () => {
       console.error(error);
     });
 };
-
-initializeProjectView();
 
 export default { initializeProjectView };
