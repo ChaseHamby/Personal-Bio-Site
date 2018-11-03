@@ -5,7 +5,7 @@
     "title": "Simple Pinterest", 
     "imageUrl": "<./images/pinterest.png'>",
     "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
-    "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
+    "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Promises, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
   },
   {
@@ -20,8 +20,8 @@
     "id": "project3",
     "title": "What You See Is What You Get", 
     "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
-    "description": "DOM manipulation using Javascript, event listeners, and JSON files", 
-    "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules",
+    "description": "The story of Tomoe Gozen! DOM manipulation using Javascript, event listeners, and JSON files", 
+    "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/What-You-See-Is-What-You-Get"
   },
   {
@@ -29,7 +29,7 @@
     "title": "Thrones", 
     "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
     "description": "A Game of Thrones site where you can sort characters based on their house. Project utilized to give us more experience with JS event listeners", 
-    "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules",
+    "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/thrones"
   },
   {
@@ -37,14 +37,14 @@
     "title": "Adoption Website", 
     "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
     "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Very similar to the Thrones project in that it gave us more experience with event listeners.", 
-    "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
   },
   {
     "id": "project6",
     "title": "Sorting Hat", 
     "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
-    "description": "A project that brings Hogwarts' Sorting Hat to life!", 
+    "description": "A project that brings Hogwarts' Sorting Hat to life! Users are able to sort students into Houses and expel them. Worked with event listeners (particularly click events).", 
     "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
     "githubUrl": "https://github.com/ChaseHamby/Sorting-Hat"
   },

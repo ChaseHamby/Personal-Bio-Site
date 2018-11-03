@@ -1,7 +1,12 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background-color: darkslategray;
+  background: url('images/family.jpg');
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .img {
@@ -16,8 +21,24 @@ body {
 
 h1, h2 {
   text-align: center;
+  padding-top: 100px;
   color: antiquewhite;
   font-family: 'EB Garamond', serif;
+}
+
+h4 {
+  color: salmon;
+  padding: 20px;
+  text-align: center;
+}
+
+h5, h6, p {
+  color: midnightblue;
+  text-align: center;
+}
+
+.card-body {
+  background-color: gainsboro;
 }
 
 .navbar {
