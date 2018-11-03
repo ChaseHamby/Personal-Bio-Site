@@ -3,7 +3,7 @@
   {
     "id": "project1",
     "title": "Simple Pinterest", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl": "<./images/pinterest.png'>",
     "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
     "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
     "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
@@ -55,14 +55,6 @@
     "description": "An app that uses a limited dictionary and then translates a holiday card message from English into another language.", 
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     "githubUrl": "https://github.com/ChaseHamby/Language-Translator"
-  },
-  {
-    "id": "project8",
-    "title": "Adoption Website", 
-    "imageUrl": "<img src='https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_1071,q_50,w_1903/v1/clients/spokane17/Beer_1_5b32b17e-a63c-4941-b0e0-0e58ab169350.jpg'>",
-    "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Once you sort, you can view cards that match your pet type preference and see pictures and information about the pet.",
-    "technologiesUsed": "HTML, Bootstrap, Vanilla JavaScript, Github",
-    "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
   }
   ]
 }

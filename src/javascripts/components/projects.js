@@ -1,5 +1,4 @@
 import $ from 'jquery';
-
 import projectData from '../data/projectData';
 
 const writeProjects = (arrayOfProjects) => {
@@ -19,11 +18,12 @@ const writeProjects = (arrayOfProjects) => {
 };
 
 const initializeProjectView = () => {
-  projectData.loadProjects().then((projects) => {
-    writeProjects(projects);
-  }).catch((error) => {
-    console.error(error);
-  });
+  projectData.loadProjects()
+    .then((data) => {
+      writeProjects(data.data);
+    }).catch((error) => {
+      console.error(error);
+    });
 };
 
 initializeProjectView();

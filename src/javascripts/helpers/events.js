@@ -1,4 +1,7 @@
-// import $ from 'jquery';
+import $ from 'jquery';
+import adoptionPhoto from '../../images/adoption.jpg';
+
+$('#adoptionPhoto').attr('src', adoptionPhoto);
 
 // const bioButton = $('#bioButton');
 
