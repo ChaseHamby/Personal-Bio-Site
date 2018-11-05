@@ -3,7 +3,7 @@
   {
     "id": "project1",
     "title": "Simple Pinterest", 
-    "imageUrl": "<./images/pinterest.png'>",
+    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
     "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
     "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Promises, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
@@ -11,7 +11,7 @@
   {
     "id": "project2",
     "title": "Shotz", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl": "<img src='https://user-images.githubusercontent.com/16019344/47607593-a1cc6580-d9e7-11e8-9c6b-d0d9d2cc2c2a.png'>",
     "description": "How to find the best locations for your movie shots! Used promises and JSON.", 
     "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
     "githubUrl": "https://github.com/ChaseHamby/shotz"
