@@ -1,11 +1,12 @@
 # Personal Bio Site
 
-This project is to get us started building our own personal bio site over the next 6 months. Each time we contribute, we will be adding new lessons from class. This time around, I added some bootstrap to my site and used event listeners for the navbar links. 
+This project is to get us started building our own personal bio site over the next 6 months. Each time we contribute, we will be adding new lessons from class. This time around, we added webpack, axios, using promises, and are being introduced to Sass.
 
 ## Screenshots
-<img width="1427" alt="screen shot 2018-09-22 at 6 04 48 pm" src="https://user-images.githubusercontent.com/16019344/45922457-144ea080-be92-11e8-99fc-e1e49769d959.png">
-<img width="1430" alt="screen shot 2018-09-22 at 6 04 55 pm" src="https://user-images.githubusercontent.com/16019344/45922458-17499100-be92-11e8-96b7-83cf8bebc8c3.png">
-<img width="1438" alt="screen shot 2018-09-22 at 7 49 04 pm" src="https://user-images.githubusercontent.com/16019344/45923044-9d6cd400-bea0-11e8-920b-cac64cca2180.png">
+<img width="1438" alt="screen shot 2018-11-05 at 5 16 27 pm" src="https://user-images.githubusercontent.com/16019344/48032803-b367e880-e11e-11e8-8189-3024983a4461.png">
+<img width="1440" alt="screen shot 2018-11-05 at 5 16 36 pm" src="https://user-images.githubusercontent.com/16019344/48032807-b5ca4280-e11e-11e8-81ce-ede9b49a5004.png">
+<img width="1440" alt="screen shot 2018-11-05 at 5 16 44 pm" src="https://user-images.githubusercontent.com/16019344/48032814-ba8ef680-e11e-11e8-9c1f-b5ae325b7c29.png">
+<img width="1383" alt="screen shot 2018-11-05 at 5 16 51 pm" src="https://user-images.githubusercontent.com/16019344/48032824-bfec4100-e11e-11e8-9fd2-aa14b3ccfcf2.png">
 
 
 ## Technical Requirements
