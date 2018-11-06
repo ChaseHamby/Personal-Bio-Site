@@ -8,7 +8,7 @@ This project is to get us started building our own personal bio site over the ne
 <img width="1438" alt="screen shot 2018-11-05 at 8 49 34 pm" src="https://user-images.githubusercontent.com/16019344/48039893-6c88eb80-e13c-11e8-8ce2-a4a220f80a6d.png">
 
 ## How to run this project
-* Clone repository to local machine.
+* Clone this repository to your local machine
 
 * You will then need to run ```npm install``` to download webpage dependencies
 
@@ -23,4 +23,4 @@ npm run projects
 npm start
 ```
 
-* This will open a new window in Chrome.
+* This will open a new window in Chrome and enjoy!
