@@ -5,7 +5,6 @@ This project is to get us started building our own personal bio site over the ne
 ## Screenshots
 <img width="1436" alt="screen shot 2018-11-05 at 8 49 23 pm" src="https://user-images.githubusercontent.com/16019344/48039879-609d2980-e13c-11e8-8c68-5ff73a882942.png">
 <img width="1426" alt="screen shot 2018-11-05 at 7 58 27 pm" src="https://user-images.githubusercontent.com/16019344/48038199-3c8a1a00-e135-11e8-9929-62fb9c05d416.png">
-<img width="1440" alt="screen shot 2018-11-05 at 5 16 44 pm" src="https://user-images.githubusercontent.com/16019344/48032814-ba8ef680-e11e-11e8-9c1f-b5ae325b7c29.png">
 <img width="1438" alt="screen shot 2018-11-05 at 8 49 34 pm" src="https://user-images.githubusercontent.com/16019344/48039893-6c88eb80-e13c-11e8-8ce2-a4a220f80a6d.png">
 
 
