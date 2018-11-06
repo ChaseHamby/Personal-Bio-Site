@@ -18,15 +18,15 @@ Your HTML and JS should all have proper indentations
 
 * You will then need to run ```npm install``` to download webpage dependencies
 
-Next, you will need to open two terminals -
+* Next, you will need to open two terminals -
 
-In the first terminal, run: 
+* In the first terminal, run: 
 ```
 npm run projects
 ```
-In the second terminal, run:
+* In the second terminal, run:
 ```
 npm start
 ```
 
-This will open a new window in Chrome.
+* This will open a new window in Chrome.
