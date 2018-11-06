@@ -3,7 +3,7 @@
   {
     "id": "project1",
     "title": "Simple Pinterest", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/pinterest.png?raw=true",
     "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
     "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Promises, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
@@ -11,7 +11,7 @@
   {
     "id": "project2",
     "title": "Shotz", 
-    "imageUrl": "<img src='https://user-images.githubusercontent.com/16019344/47607593-a1cc6580-d9e7-11e8-9c6b-d0d9d2cc2c2a.png'>",
+    "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/shotz.jpg?raw=true",
     "description": "How to find the best locations for your movie shots! Used promises and JSON.", 
     "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
     "githubUrl": "https://github.com/ChaseHamby/shotz"
@@ -19,7 +19,7 @@
   {
     "id": "project3",
     "title": "What You See Is What You Get", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/tomoe.jpg?raw=true",
     "description": "The story of Tomoe Gozen! DOM manipulation using Javascript, event listeners, and JSON files", 
     "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/What-You-See-Is-What-You-Get"
@@ -27,7 +27,7 @@
   {
     "id": "project4",
     "title": "Thrones", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl":"https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/thrones.jpeg?raw=true",
     "description": "A Game of Thrones site where you can sort characters based on their house. Project utilized to give us more experience with JS event listeners", 
     "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/thrones"
@@ -35,7 +35,7 @@
   {
     "id": "project5",
     "title": "Adoption Website", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/adoption.jpg?raw=true",
     "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Very similar to the Thrones project in that it gave us more experience with event listeners.", 
     "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap",
     "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
@@ -43,7 +43,7 @@
   {
     "id": "project6",
     "title": "Sorting Hat", 
-    "imageUrl": "<img src='http://cdn.akc.org/content/article-body-image/funny-pembroke_welsh_corgi.jpg'>",
+    "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/sorting.jpeg?raw=true",
     "description": "A project that brings Hogwarts' Sorting Hat to life! Users are able to sort students into Houses and expel them. Worked with event listeners (particularly click events).", 
     "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
     "githubUrl": "https://github.com/ChaseHamby/Sorting-Hat"
@@ -51,7 +51,7 @@
   {
     "id": "project7",
     "title": "Language Translator", 
-    "imageUrl": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Sj5Az7s0LcfkSe_i3amfURfXhgL2dDMPO-JV_S23QsC2CMl9'>",
+    "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/translate.jpeg?raw=true",
     "description": "An app that uses a limited dictionary and then translates a holiday card message from English into another language.", 
     "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
     "githubUrl": "https://github.com/ChaseHamby/Language-Translator"
