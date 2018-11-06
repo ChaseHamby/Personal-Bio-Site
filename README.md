@@ -7,12 +7,6 @@ This project is to get us started building our own personal bio site over the ne
 <img width="1426" alt="screen shot 2018-11-05 at 7 58 27 pm" src="https://user-images.githubusercontent.com/16019344/48038199-3c8a1a00-e135-11e8-9929-62fb9c05d416.png">
 <img width="1438" alt="screen shot 2018-11-05 at 8 49 34 pm" src="https://user-images.githubusercontent.com/16019344/48039893-6c88eb80-e13c-11e8-8ce2-a4a220f80a6d.png">
 
-
-## Technical Requirements
-
-Your JS file should be comprised of functions
-Your HTML and JS should all have proper indentations
-
 ## How to run this project
 * Clone repository to local machine.
 
