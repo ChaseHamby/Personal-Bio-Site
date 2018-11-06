@@ -14,15 +14,22 @@ Your JS file should be comprised of functions
 Your HTML and JS should all have proper indentations
 
 ## How to run this project
-* Use npm to install http-server in your terminal: 
-```sh
-npm install -g http-server
+* Clone repository to local machine.
+
+* run the following command to download webpage dependencies: 
 ```
-* Run the server
-```sh
-hs -p 9999
+npm install
 ```
-* Open chrome and navigate to: 
+
+You will then need to open two terminals:
+
+In the first terminal, run: 
 ```
-localhost: 9999
+npm run projects
 ```
+In the second terminal, run:
+```
+npm start
+```
+
+This will open a new window in Chrome.
