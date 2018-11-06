@@ -9,6 +9,10 @@ body {
   background-size: cover;
 }
 
+.bio, .tech {
+  box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
+
 .img {
   position: relative;
   width:  150px;
@@ -21,13 +25,13 @@ body {
 
 h1, h2 {
   text-align: center;
-  padding-top: 100px;
-  color: antiquewhite;
+  padding-top: 50px;
+  color: rgb(194, 25, 25);
   font-family: 'EB Garamond', serif;
 }
 
 h4 {
-  color: salmon;
+  color: antiquewhite;
   padding: 20px;
   text-align: center;
 }
@@ -38,22 +42,26 @@ h5, h6, p {
 }
 
 .card-body {
-  background-color: gainsboro;
+  background-color: rgb(102, 82, 102);
 }
 
 .navbar {
   display: flex;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: +5;
 }
 
-
 li {
-  margin-right: 50px;
-  margin-left: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: 100px;
+  margin-left: 100px;
   list-style-type: none;
   cursor: pointer;
   flex-direction: row;
 }
-
 
 ul {
   display: flex;
@@ -62,11 +70,9 @@ ul {
   justify-content: center;
 }
 
-.page-footer {
-  bottom: 10px;
+.footer, .page-footer {
   width: 100%;
 }
-
 
 .project-card{
   display: inline-block;
@@ -79,4 +85,3 @@ ul {
   object-position: 0 0;
   margin: 0 auto;
 }
-
