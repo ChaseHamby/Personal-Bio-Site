@@ -16,12 +16,9 @@ Your HTML and JS should all have proper indentations
 ## How to run this project
 * Clone repository to local machine.
 
-* run the following command to download webpage dependencies: 
-```
-npm install
-```
+* You will then need to run ```npm install``` to download webpage dependencies
 
-You will then need to open two terminals:
+Next, you will need to open two terminals -
 
 In the first terminal, run: 
 ```
