@@ -1,5 +1,6 @@
 import $ from 'jquery';
 import 'firebase/auth';
+import './navbar.scss';
 
 const createNavbar = () => {
   const domString = `
@@ -11,13 +12,13 @@ const createNavbar = () => {
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a href="#bio-container" id="navbar-button-auth" class="nav-link">Biography</a>
+            <a href="#bio-container" id="navbar-button-auth" class="nav-link">Bio</a>
           </li>
           <li class="nav-item">
             <a href="#project-container" id="navbar-button-tasks" class="nav-link">Projects</a>
           </li>
           <li class="nav-item">
-          <a href="#technology-container" id="navbar-button-logout" class="nav-link">Technologies</a>
+          <a href="#technology-container" id="navbar-button-logout" class="nav-link">Technology</a>
           </li>
           <li class="nav-item">
             <a href="#contact-container" id="navbar-button-logout" class="nav-link">Contact</a>

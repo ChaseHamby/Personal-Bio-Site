@@ -7,7 +7,7 @@ import getTechFromDb from '../../data/techData';
 const writeTech = (arrayOfTechnologies) => {
   let domString = '';
   arrayOfTechnologies.forEach((tech) => {
-    domString += `<div id='${tech.tech}' class='t-card col-2 p-2 ml-5'>
+    domString += `<div id='${tech.tech}' class='t-card col-1 p-1 m-5'>
     <img class='tech-cards' src=${tech.imageUrl}
       <div class="card-body">
       </div>

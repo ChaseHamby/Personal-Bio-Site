@@ -1,50 +1,62 @@
 {
     "tech1": {
       "tech": "HTML",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+      "website": "https://html.com/"
   },
     "tech2": {
       "tech": "CSS",
-      "imageUrl": "https://aprilrwatson.com/img/CSS3.png"
+      "imageUrl": "https://aprilrwatson.com/img/CSS3.png",
+      "website": "https://html.com/"
   },
     "tech3": {
       "tech": "Javascript",
-      "imageUrl": "https://antoineguillot.files.wordpress.com/2016/07/learn-javascript.png?w=344"
+      "imageUrl": "https://antoineguillot.files.wordpress.com/2016/07/learn-javascript.png?w=344",
+      "website": "https://html.com/"
   },
     "tech4": {
       "tech": "Github",
-      "imageUrl": "https://www.shareicon.net/download/2015/10/04/111717_github_512x512.png"
+      "imageUrl": "https://www.shareicon.net/download/2015/10/04/111717_github_512x512.png",
+      "website": "https://html.com/"
   },
     "tech5": {
       "tech": "Ajax",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png",
+      "website": "https://html.com/"
   },
     "tech6": {
       "tech": "Jquery",
-      "imageUrl": "https://cdn-images-1.medium.com/max/1600/0*g3ns8QALNBBH7CBA."
+      "imageUrl": "https://cdn-images-1.medium.com/max/1600/0*g3ns8QALNBBH7CBA.",
+      "website": "https://html.com/"
   },
     "tech7": {
       "tech": "Sass",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png"
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png",
+      "website": "https://html.com/"
   },
     "tech8": {
       "tech": "Webpack",
-      "imageUrl": "https://cdn-images-1.medium.com/max/400/1*l0JiZHyCBXtgeMQyhBpT6g.png"
+      "imageUrl": "https://cdn-images-1.medium.com/max/400/1*l0JiZHyCBXtgeMQyhBpT6g.png",
+      "website": "https://html.com/"
   },
     "tech9": {
       "tech": "Git",
-      "imageUrl": "https://www.codementor.io/assets/page_img/learning-git.png"
+      "imageUrl": "https://www.codementor.io/assets/page_img/learning-git.png",
+      "website": "https://html.com/"
   },
     "tech10": {
       "tech": "Firebase",
-      "imageUrl": "https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"
+      "imageUrl": "https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png",
+      "website": "https://html.com/"
   },
     "tech11": {
       "tech": "Postman",
-      "imageUrl": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/postman-icon.png"
+      "imageUrl": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/postman-icon.png",
+      "website": "https://html.com/"
   },
     "tech12": {
       "tech": "ES Lint",
-      "imageUrl": "http://freevector.co/wp-content/uploads/2014/06/eslint.png"
+      "imageUrl": "http://freevector.co/wp-content/uploads/2014/06/eslint.png",
+      "website": "https://html.com/"
     }
 }
