@@ -1,7 +1,7 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background: url('images/family.jpg');
+  background: url(https://i.pinimg.com/originals/57/80/e8/5780e819aa14b049b86d67d3293d5d50.jpg);
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -27,22 +27,23 @@ h1, h2 {
   text-align: center;
   padding-top: 50px;
   color: rgb(194, 25, 25);
-  font-family: 'EB Garamond', serif;
+  font-family: 'Permanent Marker', cursive;
 }
 
 h4 {
   color: antiquewhite;
   padding: 20px;
   text-align: center;
+  font-family: 'Permanent Marker', cursive;
 }
 
 h5, h6, p {
-  color: midnightblue;
+  color: rgb(0, 0, 3);
   text-align: center;
 }
 
-.card-body {
-  background-color: rgb(102, 82, 102);
+.card {
+  background-color: rgb(155, 150, 202);
 }
 
 .navbar {
@@ -84,4 +85,8 @@ ul {
   object-fit: cover;
   object-position: 0 0;
   margin: 0 auto;
+}
+
+#technology-container {
+  align-items: center;
 }

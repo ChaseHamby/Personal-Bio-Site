@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import getProjectsFromDb from '../data/projectData';
+import getProjectsFromDb from '../../data/projectData';
 
 const writeProjects = (arrayOfProjects) => {
   let domString = '';
@@ -7,7 +7,7 @@ const writeProjects = (arrayOfProjects) => {
     domString += `<div id='${project.id}' class='card col-3 p-3 m-5'>
         <img class='card-img-top border border-dark' src=${project.imageUrl}
         <div class="card-body">
-            <h5 class="card-title">${project.title}</h5>
+            <h5 class="card-title pt-3">${project.title}</h5>
             <h6 class="card-text">${project.description}</h6>
             <p class="technologies-used">${project.technologiesUsed}</p>
             <a href="${project.githubUrl}" class="btn btn-secondary d-flex justify-content-center">GitHub</a>

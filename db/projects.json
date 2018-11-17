@@ -1,47 +1,54 @@
   {
-     "project1": {
+    "project1": {
+      "title": "Lego Builder", 
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/LegoMinifigureHiker.png/220px-LegoMinifigureHiker.png",
+      "description": "This is an app where you can change the lego parts displayed by selecting specific parts from the dropdown buttons. You can save your favorite character! Practiced with promises and axios calls and intro to sass.", 
+      "technologiesUsed":"HTML, CSS, JS, Jquery, JSON, Promises, Axios, Postman",
+      "githubUrl": "https://github.com/ChaseHamby/lego-builder"
+    },
+    "project2": {
       "title": "Simple Pinterest", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/pinterest.png?raw=true",
-      "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
+      "description": "A simple mock up of the look and functionality of Pinterest. You can check out the boards and upon clicking them, you will see the pins for that board. A project that introduced us to using Promises", 
       "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Promises, Bootstrap",
       "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
     },
-    "project2": {
+    "project3": {
       "title": "Shotz", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/shotz.jpg?raw=true",
-      "description": "How to find the best locations for your movie shots! Used promises and JSON.", 
+      "description": "How to find the best locations for your movie shots! Alternate between shooting locations and the movies filmed there. Used promises and JSON.", 
       "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
       "githubUrl": "https://github.com/ChaseHamby/shotz"
     },
-    "project3": {
+    "project4": {
       "title": "What You See Is What You Get", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/tomoe.jpg?raw=true",
-      "description": "The story of Tomoe Gozen! DOM manipulation using Javascript, event listeners, and JSON files", 
+      "description": "The story of Tomoe Gozen! Click and play around. DOM manipulation using Javascript, event listeners, and JSON files", 
       "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
       "githubUrl": "https://github.com/ChaseHamby/What-You-See-Is-What-You-Get"
     },
-    "project4": {
+    "project5": {
       "title": "Thrones", 
       "imageUrl":"https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/thrones.jpeg?raw=true",
       "description": "A Game of Thrones site where you can sort characters based on their house. Project utilized to give us more experience with JS event listeners", 
       "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
       "githubUrl": "https://github.com/ChaseHamby/thrones"
     },
-    "project5": {
+    "project6": {
       "title": "Adoption Website", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/adoption.jpg?raw=true",
       "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Very similar to the Thrones project in that it gave us more experience with event listeners.", 
       "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap",
       "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
     },
-    "project6": {
+    "project7": {
       "title": "Sorting Hat", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/sorting.jpeg?raw=true",
       "description": "A project that brings Hogwarts' Sorting Hat to life! Users are able to sort students into Houses and expel them. Worked with event listeners (particularly click events).", 
       "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
       "githubUrl": "https://github.com/ChaseHamby/Sorting-Hat"
     },
-    "project7": {
+    "project8": {
       "title": "Language Translator", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/translate.jpeg?raw=true",
       "description": "An app that uses a limited dictionary and then translates a holiday card message from English into another language.", 
