@@ -1,5 +1,4 @@
 {
-  "technologies": {
     "tech1": {
       "tech": "HTML",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
@@ -48,5 +47,4 @@
       "tech": "ES Lint",
       "imageUrl": "http://freevector.co/wp-content/uploads/2014/06/eslint.png"
     }
-  }
 }
