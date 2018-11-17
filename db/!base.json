@@ -1,8 +1,103 @@
 {
 	"projects": {
-		"callan": "morrison"
+			"project1": {
+			 "title": "Simple Pinterest", 
+			 "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/pinterest.png?raw=true",
+			 "description": "A simple mock up of the look and functionality of Pinterest. A project that introduced us to using Promises", 
+			 "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Promises, Bootstrap",
+			 "githubUrl": "https://github.com/ChaseHamby/simple-pinterest"
+		 },
+		 "project2": {
+			 "title": "Shotz", 
+			 "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/shotz.jpg?raw=true",
+			 "description": "How to find the best locations for your movie shots! Used promises and JSON.", 
+			 "technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Modules, Promises",
+			 "githubUrl": "https://github.com/ChaseHamby/shotz"
+		 },
+		 "project3": {
+			 "title": "What You See Is What You Get", 
+			 "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/tomoe.jpg?raw=true",
+			 "description": "The story of Tomoe Gozen! DOM manipulation using Javascript, event listeners, and JSON files", 
+			 "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
+			 "githubUrl": "https://github.com/ChaseHamby/What-You-See-Is-What-You-Get"
+		 },
+		 "project4": {
+			 "title": "Thrones", 
+			 "imageUrl":"https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/thrones.jpeg?raw=true",
+			 "description": "A Game of Thrones site where you can sort characters based on their house. Project utilized to give us more experience with JS event listeners", 
+			 "technologiesUsed":"HTML, CSS, JavaScript, JSON, Modules, Bootstrap",
+			 "githubUrl": "https://github.com/ChaseHamby/thrones"
+		 },
+		 "project5": {
+			 "title": "Adoption Website", 
+			 "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/adoption.jpg?raw=true",
+			 "description": "An adoption website where you are able to sort based on pet type (cat, dino, dog, or all). Very similar to the Thrones project in that it gave us more experience with event listeners.", 
+			 "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github, Bootstrap",
+			 "githubUrl": "https://github.com/ChaseHamby/Adoption-Website"
+		 },
+		 "project6": {
+			 "title": "Sorting Hat", 
+			 "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/sorting.jpeg?raw=true",
+			 "description": "A project that brings Hogwarts' Sorting Hat to life! Users are able to sort students into Houses and expel them. Worked with event listeners (particularly click events).", 
+			 "technologiesUsed":"HTML, CSS, Vanilla JavaScript, Version Control with Github",
+			 "githubUrl": "https://github.com/ChaseHamby/Sorting-Hat"
+		 },
+		 "project7": {
+			 "title": "Language Translator", 
+			 "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/translate.jpeg?raw=true",
+			 "description": "An app that uses a limited dictionary and then translates a holiday card message from English into another language.", 
+			 "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+			 "githubUrl": "https://github.com/ChaseHamby/Language-Translator"
+		 }
 	},
 	"tech": {
-		"hockeyNight": "inCanada"
+    "tech1": {
+      "tech": "HTML",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+  },
+    "tech2": {
+      "tech": "CSS",
+      "imageUrl": "https://aprilrwatson.com/img/CSS3.png"
+  },
+    "tech3": {
+      "tech": "Javascript",
+      "imageUrl": "https://antoineguillot.files.wordpress.com/2016/07/learn-javascript.png?w=344"
+  },
+    "tech4": {
+      "tech": "Github",
+      "imageUrl": "https://www.shareicon.net/download/2015/10/04/111717_github_512x512.png"
+  },
+    "tech5": {
+      "tech": "Ajax",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png"
+  },
+    "tech6": {
+      "tech": "Jquery",
+      "imageUrl": "https://cdn-images-1.medium.com/max/1600/0*g3ns8QALNBBH7CBA."
+  },
+    "tech7": {
+      "tech": "Sass",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2000px-Sass_Logo_Color.svg.png"
+  },
+    "tech8": {
+      "tech": "Webpack",
+      "imageUrl": "https://cdn-images-1.medium.com/max/400/1*l0JiZHyCBXtgeMQyhBpT6g.png"
+  },
+    "tech9": {
+      "tech": "Git",
+      "imageUrl": "https://www.codementor.io/assets/page_img/learning-git.png"
+  },
+    "tech10": {
+      "tech": "Firebase",
+      "imageUrl": "https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"
+  },
+    "tech11": {
+      "tech": "Postman",
+      "imageUrl": "http://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/postman-icon.png"
+  },
+    "tech12": {
+      "tech": "ES Lint",
+      "imageUrl": "http://freevector.co/wp-content/uploads/2014/06/eslint.png"
+    }
 	}
 }
