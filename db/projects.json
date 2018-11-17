@@ -1,5 +1,4 @@
   {
-   "projects": {
      "project1": {
       "title": "Simple Pinterest", 
       "imageUrl": "https://github.com/ChaseHamby/Personal-Bio-Site/blob/master/src/images/pinterest.png?raw=true",
@@ -49,5 +48,4 @@
       "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
       "githubUrl": "https://github.com/ChaseHamby/Language-Translator"
     }
-  }
 }
