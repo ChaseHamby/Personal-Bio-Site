@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import projectData from '../data/projectData';
+import getProjectsFromDb from '../data/projectData';
 
 const writeProjects = (arrayOfProjects) => {
   let domString = '';
@@ -18,9 +18,9 @@ const writeProjects = (arrayOfProjects) => {
 };
 
 const initializeProjectView = () => {
-  projectData.loadProjects()
+  getProjectsFromDb()
     .then((data) => {
-      writeProjects(data.data);
+      writeProjects(data);
     }).catch((error) => {
       console.error(error);
     });
