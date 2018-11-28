@@ -1,7 +1,7 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background: url(https://i.pinimg.com/originals/57/80/e8/5780e819aa14b049b86d67d3293d5d50.jpg);
+  background-image: url(https://i.pinimg.com/originals/57/80/e8/5780e819aa14b049b86d67d3293d5d50.jpg);
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -21,6 +21,10 @@ body {
   background-repeat:   no-repeat;
   background-size:     cover;
   padding: 22px;
+}
+
+a {
+  color: rgb(129, 178, 224) !important;
 }
 
 h1, h2 {
@@ -43,7 +47,7 @@ h5, h6, p {
 }
 
 .card {
-  background-color: rgb(155, 150, 202);
+  background-color: rgb(129, 178, 224);
 }
 
 .navbar {
