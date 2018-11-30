@@ -1,4 +1,5 @@
 import $ from 'jquery';
+import './projects.scss';
 import getProjectsFromDb from '../../data/projectData';
 
 const writeProjects = (arrayOfProjects) => {
@@ -10,7 +11,7 @@ const writeProjects = (arrayOfProjects) => {
             <h5 class="card-title pt-3">${project.title}</h5>
             <h6 class="card-text">${project.description}</h6>
             <p class="technologies-used">${project.technologiesUsed}</p>
-            <a href="${project.githubUrl}" class="btn btn-secondary d-flex justify-content-center">GitHub</a>
+            <a href="${project.githubUrl}" class="btn btn-warning d-flex justify-content-center"><b>GitHub</b></a>
         </div>
     </div>`;
   });

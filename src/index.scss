@@ -1,7 +1,7 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background-image: url(https://i.pinimg.com/originals/57/80/e8/5780e819aa14b049b86d67d3293d5d50.jpg);
+  background-image: url(https://i.imgur.com/4Ar6lNK.jpg);
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -9,8 +9,13 @@ body {
   background-size: cover;
 }
 
-.bio, .tech {
-  box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+// .empty-div {
+//   height: 50px;
+// }
+
+.bio, .techs {
+  height: 100%;
+  // box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
 }
 
 .img {
@@ -24,13 +29,13 @@ body {
 }
 
 a {
-  color: rgb(129, 178, 224) !important;
+  color: rgb(185, 75, 84) !important;
 }
 
 h1, h2 {
   text-align: center;
-  padding-top: 50px;
-  color: rgb(194, 25, 25);
+  padding-top: 150px;
+  color: rgb(245, 159, 48);
   font-family: 'Permanent Marker', cursive;
 }
 
@@ -47,7 +52,8 @@ h5, h6, p {
 }
 
 .card {
-  background-color: rgb(129, 178, 224);
+  background-color: rgb(185, 75, 84);
+  padding-left: 100%;
 }
 
 .navbar {
