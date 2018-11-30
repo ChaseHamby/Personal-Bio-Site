@@ -1,26 +1,33 @@
 # Personal Bio Site
 
-This project is to get us started building our own personal bio site over the next 6 months. Each time we contribute, we will be adding new lessons from class. This time around, we added webpack, axios, using promises, and are being introduced to Sass.
+This project is to get us started building our own personal bio site over the next 6 months. Each time we contribute, we will be adding new lessons from class. This time around, we began using firebase and the CRUD axios methods. 
 
 ## Screenshots
-<img width="1436" alt="screen shot 2018-11-05 at 8 49 23 pm" src="https://user-images.githubusercontent.com/16019344/48039879-609d2980-e13c-11e8-8c68-5ff73a882942.png">
-<img width="1426" alt="screen shot 2018-11-05 at 7 58 27 pm" src="https://user-images.githubusercontent.com/16019344/48038199-3c8a1a00-e135-11e8-9929-62fb9c05d416.png">
-<img width="1438" alt="screen shot 2018-11-05 at 8 49 34 pm" src="https://user-images.githubusercontent.com/16019344/48039893-6c88eb80-e13c-11e8-8ce2-a4a220f80a6d.png">
+<img width="1378" alt="screen shot 2018-11-29 at 8 14 32 pm" src="https://user-images.githubusercontent.com/16019344/49264347-85bb4a00-f413-11e8-98e5-445230152b0c.png">
+<img width="1330" alt="screen shot 2018-11-29 at 8 14 45 pm" src="https://user-images.githubusercontent.com/16019344/49264354-881da400-f413-11e8-9133-93ce84bbcd85.png">
+<img width="1350" alt="screen shot 2018-11-29 at 8 15 00 pm" src="https://user-images.githubusercontent.com/16019344/49264357-8a7ffe00-f413-11e8-8f9a-ec4884cc5e68.png">
+<img width="1342" alt="screen shot 2018-11-29 at 8 15 06 pm" src="https://user-images.githubusercontent.com/16019344/49264360-8c49c180-f413-11e8-8f3c-86bfc6d3259b.png">
 
-## How to run this project
-* Clone this repository to your local machine
+## Technologies Used
+* Webpack
+* Axios
+* Firebase
+* ES6 Modules
+* SASS
+* Bootstrap
 
-* You will then need to run ```npm install``` to download webpage dependencies
+## How to run this app
+Note: To run this app you will need a firebase account and a new project.
 
-* Next, you will need to open two terminals -
+### 1. Configure Firebase
+1. Clone the repository to a local machine.
+2. Run the following command in terminal to download the web dependencies: `npm install`
+3. In the db folder, rename apiKeys.json.example to apiKeys.json.
+4. In Firebase, create a new project.
+5. Navigate to your config object, and copy the keys from Firebase into the apiKeys.json file.
+6. Create a realtime databse in Firebase, and start in test mode.
+7. Import the `./db/projects.json` file into the database to seed data.
+7. Import the `./db/tech.json` file into the database to seed data.
 
-* In the first terminal, run: 
-```
-npm run projects
-```
-* In the second terminal, run:
-```
-npm start
-```
-
-* This will open a new window in Chrome and enjoy!
+### 2. Serve up the app
+* Run `npm start` in your terminal to initiate the app.
