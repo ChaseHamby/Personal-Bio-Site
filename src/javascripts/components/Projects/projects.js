@@ -12,6 +12,7 @@ const writeProjects = (arrayOfProjects) => {
             <h6 class="card-text">${project.description}</h6>
             <p class="technologies-used">${project.technologiesUsed}</p>
             <a href="${project.githubUrl}" class="btn btn-warning d-flex justify-content-center"><b>GitHub</b></a>
+            <a href="${project.firebaseUrl}" class="btn btn-light d-flex justify-content-center"><b>Website</b></a>
         </div>
     </div>`;
   });

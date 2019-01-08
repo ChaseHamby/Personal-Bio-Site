@@ -2,25 +2,28 @@
     "project1": {
 			"title": "Nutshells", 
 			"imageUrl": "https://eternityinabox.com/wp-content/uploads/2014/12/image.jpg",
-			"description": "Nutshell is a new product offering that we were tasked with building. It's a dashboard for people to use to organize their daily weather, events, articles, and chat messages.", 
+			"description": "Nutshells is a new product offering that our team was tasked with building. It's a dashboard for people to use so they can organize their daily weather, events, articles, and chat messages all in one place.", 
 			"technologiesUsed":"HTML, CSS, JavaScript, Jquery, JSON, Promises, Bootstrap, Axios, Webpack, Firebase",
 			"available": true,
-			"githubUrl": "https://github.com/nss-evening-cohort-8/nutshell-betels"
+      "githubUrl": "https://github.com/nss-evening-cohort-8/nutshell-betels",
+      "firebaseUrl": "https://nutshells-betels.firebaseapp.com/"
 		},
     "project2": {
-      "title": "Lego Builder", 
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/LegoMinifigureHiker.png/220px-LegoMinifigureHiker.png",
-      "description": "This is an app where you can change the lego parts displayed by selecting specific parts from the dropdown buttons. You can save your favorite character! Practiced with promises and axios calls and intro to sass.", 
-      "technologiesUsed":"HTML, CSS, JS, Jquery, JSON, Promises, Axios, Postman",
+      "title": "Developer Portal", 
+      "imageUrl": "http://sonic-a.co.uk/wp-content/uploads/Cryptic-Portal-1_Credit-Robbie-Thomson-864x576.jpg",
+      "description": "An app used to keep track of different items such as tutorials, blogs, podcasts, and resources. The user has the ability to add and delete items to each section. The app also utilizes the Github API to display the user's profile and their commits.", 
+      "technologiesUsed":"React, Axios, Webpack, HTML, CSS, JS, Jquery, JSON, Bootstrap",
       "available": true,
-      "githubUrl": "https://github.com/ChaseHamby/lego-builder"
+      "githubUrl": "https://github.com/ChaseHamby/developer-portal",
+      "firebaseUrl": "https://developer-portal-bba6d.firebaseapp.com/"
     },
     "project3": {
       "title": "Zillodone", 
       "imageUrl": "https://lh3.googleusercontent.com/-RSnqau5brb4/WDsRiR-QonI/AAAAAAAAabQ/nd9jSZ-jL_Q_cyu_R6hTYjKMUW2xI0UoACJoC/w530-h530-n-rw/Zillow_Google_112716.jpg",
-      "description": "An app used to help users find home listings in their area. They also have the ability to add homes, edit them, and remove them entirely.", 
+      "description": "An application that is used to help folks find home listings in their local areas. Users have the ability to view listings. They can also add listings, edit their listings, and remove them entirely.", 
       "technologiesUsed":"React, Axios, Webpack, HTML, CSS, JS, Jquery, JSON, Bootstrap",
       "available": true,
-      "githubUrl": "https://github.com/ChaseHamby/zillodone"
+      "githubUrl": "https://github.com/ChaseHamby/zillodone",
+      "firebaseUrl": "https://zillodone.firebaseapp.com/"
     }
   }
