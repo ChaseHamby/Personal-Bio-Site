@@ -2,11 +2,11 @@
     "project1": {
 			"title": "Custom Curriculum",
 			"imageUrl": "https://user-images.githubusercontent.com/16019344/52311324-37bf4700-296c-11e9-81a2-acd44dd131cc.png",
-			"description": "Homeschool App is my front end capstone project at NSS. It is an app that allows parents to create profiles for their children and browse through homeschool curriculum.",
+			"description": "Homeschool App is my front end capstone project at NSS. It is an app that allows parents to create profiles for their children and browse through homeschool curriculum. They are able to filter the books based on subject, grade, and brand. Users can also create profiles for their children. ",
 			"technologiesUsed":"React, Axios, Webpack, HTML, CSS, JS, Jquery, JSON, Bootstrap",
 			"available": true,
       "githubUrl": "https://github.com/ChaseHamby/homeschool-capstone",
-      "firebaseUrl": "https://homeschool-capstone.firebaseapp.com//"
+      "firebaseUrl": "https://homeschool-capstone.firebaseapp.com/"
 		},
     "project2": {
       "title": "Developer Portal",
