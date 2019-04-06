@@ -50,5 +50,9 @@
     "tech13": {
       "tech": "React",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+    },
+    "tech14": {
+      "tech": "C#",
+      "imageUrl": "https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png"
     }
 }
